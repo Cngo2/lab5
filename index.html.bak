@@ -73,7 +73,7 @@
 	
 	<h2>Images and Fun Facts</h2>
 	<br>
-	<img src = "proj1pics/3dprinter.jpg" alt="Ender 3 V2 Printer">
+	<img src = "planets/earth.jpg" alt="Earth">
 	<ul>
 	    <li><strong>Earth</strong></li> 
 		<li><strong></strong></li>
@@ -82,7 +82,7 @@
 	  
 	<br>
 	
-	<img src = "proj1pics/3dprinter.jpg" alt="Ender 3 V2 Printer">
+	<img src = "planets/jupiter.jpg" alt="Jupiter">
 	<ul>
 	    <li><strong>Jupiter</strong></li> 
 		<li><strong></strong></li>
@@ -91,7 +91,7 @@
 
     <br>
 
-    <img src = "proj1pics/3dprinter.jpg" alt="Ender 3 V2 Printer">
+    <img src = "planets/saturn2.jpg" alt="Saturn">
 	<ul>
 	    <li><strong>Saturn</strong></li> 
 		<li><strong></strong></li>
@@ -100,7 +100,7 @@
 	
     <br>
 	
-    <img src = "proj1pics/3dprinter.jpg" alt="Ender 3 V2 Printer">
+    <img src = "planets/neptune.jpg" alt="Neptune">
 	<ul>
 	    <li><strong>Neptune</strong></li> 
 		<li><strong></strong></li>
