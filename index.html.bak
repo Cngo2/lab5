@@ -17,6 +17,7 @@
   <body>
     <h1>Planetary Data</h1>
 	<h3><em>Note: All planetary information was pulled from <a href="https://nssdc.gsfc.nasa.gov/planetary/factsheet/" title="Go to Nasa's Planet data sheet">Nasa's Planetary Data Sheet</a></em</h3>
+	<br>
 	<table> 
 	  <tr> 
 	    <th><strong>Planet Name</strong></th>
@@ -72,7 +73,6 @@
 	
 	<h2>Images and Fun Facts</h2>
 	<br>
-	<br>
 	<img src = "proj1pics/3dprinter.jpg" alt="Ender 3 V2 Printer">
 	<ul>
 	    <li><strong>Earth</strong></li> 
@@ -97,9 +97,9 @@
 		<li><strong></strong></li>
 		<li><strong></strong></li>
 	</ul>
-
+	
     <br>
-
+	
     <img src = "proj1pics/3dprinter.jpg" alt="Ender 3 V2 Printer">
 	<ul>
 	    <li><strong>Neptune</strong></li> 
