@@ -8,20 +8,18 @@ body {
 }
 .planet-table{
 	border-collapse: collapse;
-	border: 5px;
 	width: 25em;
-	background-color:purple;
+	background-color:grey;
 	border-radius:5px;
 	margin:25px auto;
 }
 
 .planet-table th tr{
-	border-bottom: 1px dashed grey;
+	border-bottom: 1px dashed black;
 }
 
 .planet-table th tr td{
-	font-size: 16px;
-	letter-spacing: 1px;
+	letter-spacing: 0px;
 	color:grey;
 	padding:8px;
 }
