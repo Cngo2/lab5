@@ -8,18 +8,16 @@ body {
     color: #2C3539;
     font-size: 14px;
 }
-
+table, th, td {
+  border: 3px solid black;
+}
 .planet-table{
 	white-space: nowrap;
-	border: 3px solid black;
-	width: 25em;
+	width: 100%;
+	border-collapse: collapse;
 	background-color:#808080;
-	border-radius:5px;
+	border-radius:10px;
 	margin:25px auto;
-}
-
-.planet-table th tr{
-	border-bottom: 1px dashed black;
 }
 
 .planet-table th tr td{
