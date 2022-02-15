@@ -14,3 +14,14 @@ body {
 	border-radius:5px;
 	margin:25px auto;
 }
+
+.planet-table th tr{
+	border-bottom: 1px dashed grey;
+}
+
+.planet-table th tr td{
+	font-size: 16px;
+	letter-spacing: 1px;
+	color:grey;
+	padding:8px;
+}
