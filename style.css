@@ -4,9 +4,11 @@ h1 {
   color: #808080;
 }
 body {
+	background-color: #B0CFDE
     color: #2C3539;
     font-size: 14px;
 }
+
 .planet-table{
 	border-collapse: collapse;
 	width: 25em;

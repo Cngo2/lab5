@@ -1,15 +1,16 @@
 h1 { 
-  background-color:blue;
-  color: black;
+  background-color:#B0CFDE;
+  font-size: 25px;
+  color: #808080;
 }
 body {
-    color: green;
+    color: #2C3539;
     font-size: 14px;
 }
 .planet-table{
 	border-collapse: collapse;
 	width: 25em;
-	background-color:grey;
+	background-color:#808080;
 	border-radius:5px;
 	margin:25px auto;
 }
@@ -20,6 +21,6 @@ body {
 
 .planet-table th tr td{
 	letter-spacing: 0px;
-	color:grey;
+	color:#2C3539;
 	padding:8px;
 }
