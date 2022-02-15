@@ -69,3 +69,42 @@
 		<td>59,800</td>
 	  </tr>
 	</table>
+	
+	<h2>Images and Fun Facts</h2>
+	<br>
+	<br>
+	<img src = "proj1pics/3dprinter.jpg" alt="Ender 3 V2 Printer">
+	<ul>
+	    <li><strong>Earth</strong></li> 
+		<li><strong></strong></li>
+		<li><strong></strong></li>
+	</ul>
+	  
+	<br>
+	
+	<img src = "proj1pics/3dprinter.jpg" alt="Ender 3 V2 Printer">
+	<ul>
+	    <li><strong>Jupiter</strong></li> 
+		<li><strong></strong></li>
+		<li><strong></strong></li>
+	</ul>
+
+    <br>
+
+    <img src = "proj1pics/3dprinter.jpg" alt="Ender 3 V2 Printer">
+	<ul>
+	    <li><strong>Saturn</strong></li> 
+		<li><strong></strong></li>
+		<li><strong></strong></li>
+	</ul>
+
+    <br>
+
+    <img src = "proj1pics/3dprinter.jpg" alt="Ender 3 V2 Printer">
+	<ul>
+	    <li><strong>Neptune</strong></li> 
+		<li><strong></strong></li>
+		<li><strong></strong></li>
+	</ul>	
+  </body>
+</html>
