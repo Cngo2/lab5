@@ -6,3 +6,11 @@ body {
     color: green;
     font-size: 14px;
 }
+.planet-table{
+	border-collapse: collapse;
+	border: 5px;
+	width: 25em;
+	background-color:purple;
+	border-radius:5px;
+	margin:25px auto;
+}
