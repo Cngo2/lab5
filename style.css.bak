@@ -7,7 +7,7 @@ body {
 	background-color: #B0CFDE;
     color: #2C3539;
     font-size: 14px;
-	margin: 0px;
+	margin: 0px
 }
 table, th, td {
   border: 3px solid black;
@@ -25,4 +25,48 @@ table, th, td {
 	letter-spacing: 0px;
 	color:#2C3539;
 	padding:8px;
+}
+
+ul.e {
+  background: #3399ff;
+  padding: 20px;
+}
+
+ul.e li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+}
+
+ul.j {
+  background: #3399ff;
+  padding: 20px;
+}
+
+ul.j li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+}
+
+ul.s {
+  background: #3399ff;
+  padding: 20px;
+}
+
+ul.s li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+}
+
+ul.n {
+  background: #3399ff;
+  padding: 20px;
+}
+
+ul.n li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
 }
