@@ -13,6 +13,7 @@ table, th, td {
   border: 3px solid black;
 }
 .planet-table{
+	text-align: center;
 	white-space: nowrap;
 	width: 100%;
 	border-collapse: collapse;
@@ -26,6 +27,12 @@ table, th, td {
 	letter-spacing: 0px;
 	color:#2C3539;
 	padding:8px;
+}
+
+ul {
+  background: #3399ff;
+  padding: 20px;
+  margin: 5px;
 }
 
 ul.e {
