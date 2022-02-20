@@ -1,4 +1,5 @@
 h1 { 
+  text-align: center;
   background-color:#B0CFDE;
   font-size: 50px;
   color: #808080;
@@ -29,51 +30,59 @@ table, th, td {
 	padding:8px;
 }
 
+.column {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 ul {
+  text-align: center;
   background: #3399ff;
   padding: 20px;
   margin: 5px;
 }
 
-ul.e {
+.e {
   background: #3399ff;
   padding: 20px;
 }
 
-ul.e li {
+.e li {
   background: #cce5ff;
   color: darkblue;
   margin: 5px;
 }
 
-ul.j {
+.j {
   background: #3399ff;
   padding: 20px;
 }
 
-ul.j li {
+.j li {
   background: #cce5ff;
   color: darkblue;
   margin: 5px;
 }
 
-ul.s {
+.s {
   background: #3399ff;
   padding: 20px;
 }
 
-ul.s li {
+.s li {
   background: #cce5ff;
   color: darkblue;
   margin: 5px;
 }
 
-ul.n {
+.n {
   background: #3399ff;
   padding: 20px;
 }
 
-ul.n li {
+.n li {
   background: #cce5ff;
   color: darkblue;
   margin: 5px;
