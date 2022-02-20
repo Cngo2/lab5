@@ -23,6 +23,10 @@ table, th, td {
 	margin:25px auto;
 }
 
+.planet-table th{
+	color: black;
+}
+
 .planet-table th tr td{
 	text-align: center;
 	letter-spacing: 0px;
