@@ -41,6 +41,10 @@ table, th, td {
   width: 50%;
 }
 
+.planet-table tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+
 ul {
   text-align: center;
   background: #3399ff;

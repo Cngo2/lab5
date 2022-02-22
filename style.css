@@ -47,6 +47,7 @@ table, th, td {
 
 ul {
   text-align: center;
+  list-style: inside;
   background: #3399ff;
   padding: 20px;
   margin: 5px;
@@ -57,21 +58,9 @@ ul {
   padding: 20px;
 }
 
-.e li {
-  background: #cce5ff;
-  color: darkblue;
-  margin: 5px;
-}
-
 .j {
   background: #3399ff;
   padding: 20px;
-}
-
-.j li {
-  background: #cce5ff;
-  color: darkblue;
-  margin: 5px;
 }
 
 .s {
@@ -79,19 +68,15 @@ ul {
   padding: 20px;
 }
 
-.s li {
-  background: #cce5ff;
-  color: darkblue;
-  margin: 5px;
-}
-
 .n {
   background: #3399ff;
   padding: 20px;
 }
 
-.n li {
-  background: #cce5ff;
-  color: darkblue;
-  margin: 5px;
+.pic {
+ text-align:center;
+ display:block;
+ margin-left: auto;
+ margin-right: auto;
 }
+	
