@@ -54,38 +54,39 @@ table, th, td {
   background-color: #D6EEEE;
 }
 
-ul {
-  text-align: center;
-  list-style: inside;
-  background: #3399ff;
-  padding: 20px;
-  margin: 5px;
-}
-
-.e {
-  background: #3399ff;
-  padding: 20px;
-}
-
-.j {
-  background: #3399ff;
-  padding: 20px;
-}
-
-.s {
-  background: #3399ff;
-  padding: 20px;
-}
-
-.n {
-  background: #3399ff;
-  padding: 20px;
-}
-
 .pic {
  text-align:center;
  display:block;
  margin-left: auto;
  margin-right: auto;
 }
+
+ul {
+  text-align: center;
+  list-style: inside;
+  background: #37425B;
+  padding: 20px;
+  margin: 5px;
+}
+
+.e {
+  background: #37425B;
+  padding: 20px;
+}
+
+.j {
+  background: #37425B;
+  padding: 20px;
+}
+
+.s {
+  background: #37425B;
+  padding: 20px;
+}
+
+.n {
+  background: #37425B;
+  padding: 20px;
+}
+
 	

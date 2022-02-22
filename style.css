@@ -64,28 +64,29 @@ table, th, td {
 ul {
   text-align: center;
   list-style: inside;
-  background: #3399ff;
+  background: #37425B;
+  background-size: 300px 100px;
   padding: 20px;
   margin: 5px;
 }
 
 .e {
-  background: #3399ff;
+  background: #37425B;
   padding: 20px;
 }
 
 .j {
-  background: #3399ff;
+  background: #37425B;
   padding: 20px;
 }
 
 .s {
-  background: #3399ff;
+  background: #37425B;
   padding: 20px;
 }
 
 .n {
-  background: #3399ff;
+  background: #37425B;
   padding: 20px;
 }
 
