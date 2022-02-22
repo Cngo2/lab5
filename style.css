@@ -54,6 +54,13 @@ table, th, td {
   background-color: #D6EEEE;
 }
 
+.pic {
+ text-align:center;
+ display:block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
 ul {
   text-align: center;
   list-style: inside;
@@ -82,10 +89,4 @@ ul {
   padding: 20px;
 }
 
-.pic {
- text-align:center;
- display:block;
- margin-left: auto;
- margin-right: auto;
-}
 	
