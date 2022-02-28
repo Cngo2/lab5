@@ -68,8 +68,8 @@ ul {
   height: 125px;
   background-size: 300px 100px;
   background: #BFC9CA;
-  padding: 10px;
-  margin: 5px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .e {
