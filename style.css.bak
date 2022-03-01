@@ -62,7 +62,7 @@ table, th, td {
 }
 
 ul {
-  text-align: center;
+  text-align: left;
   list-style: inside;
   width: 300px;
   height: 125px;
