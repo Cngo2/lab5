@@ -72,24 +72,5 @@ ul {
   margin-right: auto;
 }
 
-.e {
-  background: #BFC9CA;
-  padding: 20px;
-}
-
-.j {
-  background: #BFC9CA;
-  padding: 20px;
-}
-
-.s {
-  background: #BFC9CA;
-  padding: 20px;
-}
-
-.n {
-  background: #BFC9CA;
-  padding: 20px;
-}
 
 	
