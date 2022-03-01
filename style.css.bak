@@ -65,7 +65,7 @@ table, th, td {
 ul {
   text-align: left;
   list-style: inside;
-  width: 300px;
+  width: 400px;
   background-size: 200px 50px;
   background: #BFC9CA;
   margin-left: auto;
